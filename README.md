@@ -1,8 +1,8 @@
 #  Whack a Penguin
 
-<img src="/screens/1.jpeg" width="40%">
+<img src="/screens/1.jpeg" width="40%">    <img src="/screens/2.jpg" width="40%">
 
-[Demo video here]()
+[Demo video here](https://youtu.be/BMu3HUyqFfo)
 
 ## Main functionality
 * simple game

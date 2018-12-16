@@ -18,6 +18,7 @@
 		5C626AB221C6DF2B00E2A042 /* whack.caf in Resources */ = {isa = PBXBuildFile; fileRef = 5C626AB021C6DF2B00E2A042 /* whack.caf */; };
 		5C626AB321C6DF2B00E2A042 /* whackBad.caf in Resources */ = {isa = PBXBuildFile; fileRef = 5C626AB121C6DF2B00E2A042 /* whackBad.caf */; };
 		5C626AB721C6E21E00E2A042 /* 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5C626AB621C6E21E00E2A042 /* 1.jpeg */; };
+		5C626AB921C6E47900E2A042 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5C626AB821C6E47900E2A042 /* 2.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		5C626AB121C6DF2B00E2A042 /* whackBad.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = whackBad.caf; sourceTree = "<group>"; };
 		5C626AB421C6E1A600E2A042 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		5C626AB621C6E21E00E2A042 /* 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpeg; sourceTree = "<group>"; };
+		5C626AB821C6E47900E2A042 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 			isa = PBXGroup;
 			children = (
 				5C626AB621C6E21E00E2A042 /* 1.jpeg */,
+				5C626AB821C6E47900E2A042 /* 2.jpg */,
 			);
 			path = screens;
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 				5C626A9721C69A6100E2A042 /* GameScene.sks in Resources */,
 				5C626AA221C69A6300E2A042 /* Assets.xcassets in Resources */,
 				5C626AA521C69A6300E2A042 /* LaunchScreen.storyboard in Resources */,
+				5C626AB921C6E47900E2A042 /* 2.jpg in Resources */,
 				5C626AB321C6DF2B00E2A042 /* whackBad.caf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
