@@ -14,6 +14,7 @@
 		5C626AA021C69A6100E2A042 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C626A9E21C69A6100E2A042 /* Main.storyboard */; };
 		5C626AA221C69A6300E2A042 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C626AA121C69A6300E2A042 /* Assets.xcassets */; };
 		5C626AA521C69A6300E2A042 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C626AA321C69A6300E2A042 /* LaunchScreen.storyboard */; };
+		5C626AAF21C6A0A800E2A042 /* WhackSlot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C626AAE21C6A0A800E2A042 /* WhackSlot.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		5C626AA121C69A6300E2A042 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5C626AA421C69A6300E2A042 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5C626AA621C69A6300E2A042 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5C626AAE21C6A0A800E2A042 /* WhackSlot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhackSlot.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 			children = (
 				5C626A9421C69A6100E2A042 /* AppDelegate.swift */,
 				5C626A9621C69A6100E2A042 /* GameScene.sks */,
+				5C626AAE21C6A0A800E2A042 /* WhackSlot.swift */,
 				5C626A9A21C69A6100E2A042 /* GameScene.swift */,
 				5C626A9C21C69A6100E2A042 /* GameViewController.swift */,
 				5C626A9E21C69A6100E2A042 /* Main.storyboard */,
@@ -144,6 +147,7 @@
 			files = (
 				5C626A9B21C69A6100E2A042 /* GameScene.swift in Sources */,
 				5C626A9D21C69A6100E2A042 /* GameViewController.swift in Sources */,
+				5C626AAF21C6A0A800E2A042 /* WhackSlot.swift in Sources */,
 				5C626A9521C69A6100E2A042 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
